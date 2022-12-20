@@ -1,1 +1,4 @@
-github.com/akhil/go-bookstore 가 없어서 수동 생성
+# Golang With MySQL Book Management System
+- https://www.youtube.com/watch?v=jFfo23yIWac
+
+
